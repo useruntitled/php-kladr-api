@@ -1,5 +1,5 @@
 {
-	"name": "useruntitled/php-kladr-api",
+	"name": "webmasterskaya/php-kladr-api",
 	"type": "library",
 	"license": "MIT",
 	"authors": [
@@ -22,7 +22,7 @@
 	},
 	"autoload": {
 		"psr-4": {
-			"Useruntitled\\Kladr\\": "src/"
+			"Webmasterskaya\\Kladr\\": "src/"
 		}
 	},
 	"config": {
